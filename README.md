@@ -1,3 +1,5 @@
+QQ交流群：785357955
+
 ## Install tools
 ### basic
 ```console
